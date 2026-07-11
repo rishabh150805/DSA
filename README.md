@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2256-minimum-average-difference](https://github.com/rishabh150805/DSA/tree/master/2256-minimum-average-difference) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
@@ -32,5 +33,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
