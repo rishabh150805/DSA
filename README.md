@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2256-minimum-average-difference](https://github.com/rishabh150805/DSA/tree/master/2256-minimum-average-difference) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
