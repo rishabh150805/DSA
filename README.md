@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh150805/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -87,5 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
