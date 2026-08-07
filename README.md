@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/rishabh150805/DSA/tree/master/2256-minimum-average-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rishabh150805/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rishabh150805/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2679-sum-in-a-matrix](https://github.com/rishabh150805/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/rishabh150805/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rishabh150805/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rishabh150805/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Greedy
 |  |
 | ------- |
