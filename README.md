@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/rishabh150805/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rishabh150805/DSA/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabh150805/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishabh150805/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
