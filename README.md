@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 ## Two Pointers
