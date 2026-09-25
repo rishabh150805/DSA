@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabh150805/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/rishabh150805/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2256-minimum-average-difference](https://github.com/rishabh150805/DSA/tree/master/2256-minimum-average-difference) |
+| [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rishabh150805/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rishabh150805/DSA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
+| [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
+| [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
