@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/rishabh150805/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishabh150805/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/rishabh150805/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh150805/DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/rishabh150805/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rishabh150805/DSA/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
