@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishabh150805/DSA/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh150805/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabh150805/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
 | [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishabh150805/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rishabh150805/DSA/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh150805/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -179,4 +182,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rishabh150805/DSA/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
