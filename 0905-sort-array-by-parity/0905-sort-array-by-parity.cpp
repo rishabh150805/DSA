@@ -5,15 +5,13 @@ public:
         int right = static_cast<int>(nums.size()-1);
 
         while(left<right){
-            if(nums[left] % 2 ==0){
-                left++;
-            }else if(nums[right] % 2 == 1){
-                right--;
-            }else{
-                swap(nums[left],nums[right]);
-                left++;
-                right--;
-            }
+           if(nums[left] % 2 > nums[right] % 2){
+            swap(nums[left],nums[right]); 
+            left++ ,right--;
+
+           }
+           if(nums[left]%2==0) left++;
+           if(nums[right]%2 !=0)right--;
         }
         return nums;
     }
