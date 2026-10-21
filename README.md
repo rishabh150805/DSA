@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishabh150805/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh150805/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabh150805/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh150805/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0088-merge-sorted-array) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
