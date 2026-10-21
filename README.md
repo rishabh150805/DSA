@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh150805/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabh150805/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rishabh150805/DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/rishabh150805/DSA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabh150805/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh150805/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/rishabh150805/DSA/tree/master/0905-sort-array-by-parity) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rishabh150805/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishabh150805/DSA/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/rishabh150805/DSA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
