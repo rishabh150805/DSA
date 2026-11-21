@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabh150805/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/rishabh150805/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabh150805/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishabh150805/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2256-minimum-average-difference](https://github.com/rishabh150805/DSA/tree/master/2256-minimum-average-difference) |
 | [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/rishabh150805/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rishabh150805/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishabh150805/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabh150805/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishabh150805/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/rishabh150805/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rishabh150805/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabh150805/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishabh150805/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/rishabh150805/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/rishabh150805/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Sliding Window
