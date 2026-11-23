@@ -9,15 +9,11 @@ public:
                 res.push_back(nums[i]);
             }
         }
-
-       
         for(int i = 0; i < nums.size(); i++) {
             if(nums[i] == pivot) {
                 res.push_back(nums[i]);
             }
         }
-
-      
         for(int i = 0; i < nums.size(); i++) {
             if(nums[i] > pivot) {
                 res.push_back(nums[i]);
