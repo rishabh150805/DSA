@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/rishabh150805/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/rishabh150805/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishabh150805/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/rishabh150805/DSA/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/rishabh150805/DSA/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rishabh150805/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rishabh150805/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabh150805/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rishabh150805/DSA/tree/master/0141-linked-list-cycle) |
 | [0706-design-hashmap](https://github.com/rishabh150805/DSA/tree/master/0706-design-hashmap) |
+| [0929-unique-email-addresses](https://github.com/rishabh150805/DSA/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/rishabh150805/DSA/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/rishabh150805/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/rishabh150805/DSA/tree/master/2540-minimum-common-value) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabh150805/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rishabh150805/DSA/tree/master/0125-valid-palindrome) |
+| [0929-unique-email-addresses](https://github.com/rishabh150805/DSA/tree/master/0929-unique-email-addresses) |
 ## Stack
 |  |
 | ------- |
