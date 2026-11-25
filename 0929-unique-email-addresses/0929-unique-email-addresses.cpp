@@ -2,16 +2,21 @@
 class Solution {
 public:
     int numUniqueEmails(vector<string>& emails) {
-        unordered_map<string, int> mp;
+        unordered_set<string> st;
 
         for(string email : emails) {
             string temp = "";
             int i = 0;
 
-            while(email[i] != '@' && email[i] != '+') {
+            while(email[i] != '@') {
+                if(email[i] == '+') {
+                    break;
+                }
+
                 if(email[i] != '.') {
                     temp += email[i];
                 }
+
                 i++;
             }
 
@@ -21,9 +26,9 @@ public:
 
             temp += email.substr(i);
 
-            mp[temp]++;
+            st.insert(temp);
         }
 
-        return mp.size();
+        return st.size();
     }
 };
